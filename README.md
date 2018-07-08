@@ -17,8 +17,8 @@ The easiest approach to view my current work is to look at the .ipynb file.
 ## Desired translation:
 
 ### input : 
-**On the last day of school, she gave each student a gift-wrapped present.**
+**A Most Amazing Outcome.**
 
 ### output :
-**Lọ́jọ́ tí kíláàsì àkọ́kọ́ parí gan-an, ó fún akẹ́kọ̀ọ́ kọ̀ọ̀kan ní ẹ̀bùn kan tó fi nǹkan wé.**
+**Àbájáde Tó Jẹ́ Àgbàyanu Jù Lọ.**
 
