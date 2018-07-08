@@ -16,9 +16,9 @@ The easiest approach to view my current work is to look at the .ipynb file.
 
 ## Desired translation:
 
-### input : 
+### input: 
 **A Most Amazing Outcome.**
 
-### output :
+### output:
 **Àbájáde Tó Jẹ́ Àgbàyanu Jù Lọ.**
 
