@@ -3,3 +3,4 @@ checkpoints/
 __pycache__/
 params.p
 preprocess.p 
+.DS_Store

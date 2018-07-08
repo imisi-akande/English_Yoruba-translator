@@ -11,7 +11,7 @@ problem_unittests.py also provided by Udacity.
 The easiest approach to view my current work is to look at the .ipynb file.
 
 
-### According to Fagbolu et al, 2015, there is a need to design a graphical representation for electronic collection of Yorùbá words and also Evaluate the performance and usefulness of Yorùbá corpus. Due to the fact that there are series of difficulties in building Yorùbá corpus and also, translating the whole language of English to Yoruba will take lots of time to train. I am starting with a small portion of English to Yorùbá corpus which will be updated gradually with time. I will continue to load the dataset in order to better the system.
+### According to Fagbolu et al, 2015, there is a need to design a graphical representation for electronic collection of Yorùbá words and also Evaluate the performance and usefulness of Yorùbá corpus. Due to the fact that there are series of difficulties in building Yorùbá corpus and also, translating the whole language of English to Yorùbá will take lots of time to train. I am starting with a small portion of English to Yorùbá corpus which will be updated gradually with time. I will continue to load the dataset in order to better the system.
 
 
 ## Desired translation:
